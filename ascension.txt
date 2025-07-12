@@ -1,22 +1,30 @@
 [Gameplay]
 Mana Sickness no longer exists.
+Mana now regenerates when the player is moving.
+Player movement is 20% quicker overall.
 
 [Weapons]
+Adjusted melee weapon stats:
+* Flattened the damage curve slightly
+* Adjusted use times in certain cases
 
 [Game Modes]
+Enemy money drop multiplier is now 500% for all modes.
+
 Adjusted Game Mode difficulties:
 
 -- Expert Mode:
 No longer increases enemy HP.
 Non-boss enemy damage multiplier is now 100%
 Boss enemy damage multiplier is now 50%
-Enemy money drop multiplier is now 400%.
 
 -- Master Mode:
 No longer increases enemy HP.
 Non-boss enemy damage multiplier is now 200%
 Boss enemy damage multiplier is now 100%
-Enemy money drop multiplier is now 500%.
+
+-- ForTheWorthy
+No longer affects enemy damage multiplier.
 
 [Events]
 -- Frost Moon

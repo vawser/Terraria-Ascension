@@ -1,1 +1,53 @@
+Configs: {
+	ClientConfig: {
+		DisplayName: Client Config
+		Headers.Brightness: Brightness Header
 
+		LightBrightness: {
+			Label: Brightness
+			Tooltip:
+				'''
+				Cannot be brighter than the server brightness.
+				0-1000, Recomended range is 100-300, 1000 is torch, 200 is dim light
+				'''
+		}
+	}
+
+	ServerConfig: {
+		DisplayName: Server Config
+
+		Headers: {
+			Brightness: Brightness Header
+			Color: Color Header
+		}
+
+		LightBrightness: {
+			Label: Brightness
+			Tooltip:
+				'''
+				Clients can choose to set a lower brightness.
+				0-1000, Recomended range is 100-300, 1000 is torch, 200 is dim light
+				'''
+		}
+
+		LightB: {
+			Label: Blue
+			Tooltip: ""
+		}
+
+		NormalizeLightBrightness: {
+			Label: Normalize color brightness
+			Tooltip: Normalize brightness for the color. Ex: (0, 0.25, 0.5) -> (0, 0.5, 1)
+		}
+
+		LightR: {
+			Label: Red
+			Tooltip: ""
+		}
+
+		LightG: {
+			Label: Green
+			Tooltip: ""
+		}
+	}
+}
