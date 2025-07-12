@@ -1,0 +1,26 @@
+[Gameplay]
+Mana Sickness no longer exists.
+
+[Weapons]
+
+[Game Modes]
+Adjusted Game Mode difficulties:
+
+-- Expert Mode:
+No longer increases enemy HP.
+Non-boss enemy damage multiplier is now 100%
+Boss enemy damage multiplier is now 50%
+Enemy money drop multiplier is now 400%.
+
+-- Master Mode:
+No longer increases enemy HP.
+Non-boss enemy damage multiplier is now 200%
+Boss enemy damage multiplier is now 100%
+Enemy money drop multiplier is now 500%.
+
+[Events]
+-- Frost Moon
+Reduced the HP of all NPCs that belong to this event by 30%.
+
+-- Pumpkin Moon
+Reduced the HP of all NPCs that belong to this event by 30%.
