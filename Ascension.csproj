@@ -11,7 +11,17 @@
 	<!-- References -->
 	<ItemGroup>
 	  <Folder Include="Assets\" />
+	  <Folder Include="Common\GlobalItems\MagicWeapons\Hardmode\" />
+	  <Folder Include="Common\GlobalItems\MagicWeapons\Normal\" />
+	  <Folder Include="Common\GlobalItems\RangedWeapons\Hardmode\" />
+	  <Folder Include="Common\GlobalItems\RangedWeapons\Normal\" />
+	  <Folder Include="Common\GlobalItems\SummonWeapons\Hardmode\" />
+	  <Folder Include="Common\GlobalItems\SummonWeapons\Normal\" />
+	  <Folder Include="Common\GlobalItems\Tools\Hardmode\" />
+	  <Folder Include="Common\GlobalItems\Tools\Normal\" />
 	  <Folder Include="Content\Drops\" />
+	  <Folder Include="Content\Items\" />
+	  <Folder Include="Content\NPCs\" />
 	  <Folder Include="Content\Recipes\" />
 	  <Folder Include="Content\Projectiles\" />
 	  <Folder Include="Content\Tiles\" />
